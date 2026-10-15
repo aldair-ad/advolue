@@ -1,256 +1,125 @@
-Nome da campanha,Dia,Status de veiculação,Nível de veiculação,Nome da conta,Identificação da conta,Valor gasto (BRL),Impressões,Alcance,Cliques no link,CPC (custo por clique no link),Tipo de resultado,Resultados,Custo por resultado,Início dos relatórios,Encerramento dos relatórios,Resultados (iniciais)
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-30,active,campaign,SuperAuto GAC,952398236874786,52.93,945,667,7,7.56142857,Conversas por mensagem iniciadas,3,17.64333333,2026-09-30,2026-09-30,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-30,active,campaign,SuperAuto GAC,952398236874786,240.34,9856,7873,155,1.55058065,Leads (formulário),8,30.0425,2026-09-30,2026-09-30,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-29,active,campaign,SuperAuto GAC,952398236874786,94.89,1210,803,22,4.31318182,Conversas por mensagem iniciadas,11,8.62636364,2026-09-29,2026-09-29,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-29,active,campaign,SuperAuto GAC,952398236874786,457.07,18406,14366,302,1.51347682,Leads (formulário),24,19.04458333,2026-09-29,2026-09-29,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-28,active,campaign,SuperAuto GAC,952398236874786,133.01,1860,1347,33,4.03060606,Conversas por mensagem iniciadas,4,33.2525,2026-09-28,2026-09-28,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-28,active,campaign,SuperAuto GAC,952398236874786,425.03,19237,14422,296,1.43591216,Leads (formulário),18,23.61277778,2026-09-28,2026-09-28,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-27,active,campaign,SuperAuto GAC,952398236874786,116.05,2237,1695,29,4.00172414,Conversas por mensagem iniciadas,5,23.21,2026-09-27,2026-09-27,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-27,active,campaign,SuperAuto GAC,952398236874786,380.33,18720,13546,329,1.15601824,Leads (formulário),22,17.28772727,2026-09-27,2026-09-27,
-[SET]_[N]_Card/Vídeo [Semana GS/Wts],2026-09-26,inactive,campaign,SuperAuto GAC,952398236874786,282.86,6109,4579,75,3.77146667,Conversas por mensagem iniciadas,17,16.63882353,2026-09-26,2026-09-26,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-26,active,campaign,SuperAuto GAC,952398236874786,98.73,1870,1380,28,3.52607143,Conversas por mensagem iniciadas,5,19.746,2026-09-26,2026-09-26,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-26,inactive,campaign,SuperAuto GAC,952398236874786,403.7,7166,5422,137,2.94671533,Leads (formulário),15,26.91333333,2026-09-26,2026-09-26,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-26,active,campaign,SuperAuto GAC,952398236874786,254.77,11893,9132,190,1.34089474,Leads (formulário),11,23.16090909,2026-09-26,2026-09-26,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-25,inactive,campaign,SuperAuto GAC,952398236874786,740.04,13223,9610,313,2.36434505,Leads (formulário),24,30.835,2026-09-25,2026-09-25,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-25,active,campaign,SuperAuto GAC,952398236874786,300.7,14203,10837,223,1.34843049,Leads (formulário),10,30.07,2026-09-25,2026-09-25,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-25,active,campaign,SuperAuto GAC,952398236874786,92.64,1813,1351,14,6.61714286,,,,2026-09-25,2026-09-25,
-[SET]_[N]_Card/Vídeo [Semana GS/Wts],2026-09-25,inactive,campaign,SuperAuto GAC,952398236874786,520.09,11081,7206,145,3.58682759,Conversas por mensagem iniciadas,23,22.6126087,2026-09-25,2026-09-25,
-[SET]_[N]_Card/Vídeo [Semana GS/Wts],2026-09-24,inactive,campaign,SuperAuto GAC,952398236874786,691.86,16289,10877,171,4.04596491,Conversas por mensagem iniciadas,29,23.85724138,2026-09-24,2026-09-24,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-24,active,campaign,SuperAuto GAC,952398236874786,99.19,1647,1216,12,8.26583333,Conversas por mensagem iniciadas,3,33.06333333,2026-09-24,2026-09-24,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-24,inactive,campaign,SuperAuto GAC,952398236874786,573.71,11182,8024,219,2.61968037,Leads (formulário),18,31.87277778,2026-09-24,2026-09-24,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-24,active,campaign,SuperAuto GAC,952398236874786,245.51,12610,9680,149,1.64771812,Leads (formulário),6,40.91833333,2026-09-24,2026-09-24,
-[SET]_[N]_Card/Vídeo [Semana GS/Wts],2026-09-23,inactive,campaign,SuperAuto GAC,952398236874786,293.51,5498,4073,61,4.81163934,Conversas por mensagem iniciadas,8,36.68875,2026-09-23,2026-09-23,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-23,active,campaign,SuperAuto GAC,952398236874786,89.45,1843,1355,11,8.13181818,Conversas por mensagem iniciadas,1,89.45,2026-09-23,2026-09-23,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-23,inactive,campaign,SuperAuto GAC,952398236874786,394.21,8830,6763,174,2.26557471,Leads (formulário),19,20.74789474,2026-09-23,2026-09-23,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-23,active,campaign,SuperAuto GAC,952398236874786,441.1,21105,16318,296,1.4902027,Leads (formulário),18,24.50555556,2026-09-23,2026-09-23,
-[SET]_[N]_Card/Vídeo [Semana GS/Wts],2026-09-22,inactive,campaign,SuperAuto GAC,952398236874786,45.62,1202,744,10,4.562,Conversas por mensagem iniciadas,2,22.81,2026-09-22,2026-09-22,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-22,active,campaign,SuperAuto GAC,952398236874786,101.97,2366,1679,25,4.0788,Conversas por mensagem iniciadas,6,16.995,2026-09-22,2026-09-22,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-22,inactive,campaign,SuperAuto GAC,952398236874786,197.31,4854,4015,121,1.63066116,Leads (formulário),17,11.60647059,2026-09-22,2026-09-22,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-22,active,campaign,SuperAuto GAC,952398236874786,630.33,34005,24142,496,1.27082661,Leads (formulário),29,21.73551724,2026-09-22,2026-09-22,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-21,active,campaign,SuperAuto GAC,952398236874786,532.87,29758,21010,438,1.21659817,Leads (formulário),28,19.03107143,2026-09-21,2026-09-21,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-21,inactive,campaign,SuperAuto GAC,952398236874786,180.87,4849,4068,113,1.60061947,Leads (formulário),13,13.91307692,2026-09-21,2026-09-21,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-21,active,campaign,SuperAuto GAC,952398236874786,109.76,2150,1487,25,4.3904,Conversas por mensagem iniciadas,9,12.19555556,2026-09-21,2026-09-21,
-[SET]_[N]_Card/Vídeo [Semana GS/Wts],2026-09-21,inactive,campaign,SuperAuto GAC,952398236874786,37.87,894,615,15,2.52466667,Conversas por mensagem iniciadas,7,5.41,2026-09-21,2026-09-21,
-[SET]_[N]_Card/Vídeo [Semana GS/Wts],2026-09-20,inactive,campaign,SuperAuto GAC,952398236874786,39.62,856,638,20,1.981,Conversas por mensagem iniciadas,3,13.20666667,2026-09-20,2026-09-20,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-20,active,campaign,SuperAuto GAC,952398236874786,76.27,1476,1091,11,6.93363636,Conversas por mensagem iniciadas,4,19.0675,2026-09-20,2026-09-20,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-20,inactive,campaign,SuperAuto GAC,952398236874786,306.87,7719,6516,185,1.65875676,Leads (formulário),11,27.89727273,2026-09-20,2026-09-20,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-20,active,campaign,SuperAuto GAC,952398236874786,634.97,34513,24515,518,1.22581081,Leads (formulário),29,21.89551724,2026-09-20,2026-09-20,
-[AGO]_[N]_Vídeo [Semana GS] Encerrada,2026-09-19,inactive,campaign,SuperAuto GAC,952398236874786,159.35,81527,77968,41,3.88658537,Alcance,77968,2.04378719,2026-09-19,2026-09-19,
-[SET]_[N]_Card/Vídeo [Semana GS/Wts],2026-09-19,inactive,campaign,SuperAuto GAC,952398236874786,22.65,516,374,3,7.55,,,,2026-09-19,2026-09-19,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-19,active,campaign,SuperAuto GAC,952398236874786,60.35,1478,1073,21,2.87380952,Conversas por mensagem iniciadas,7,8.62142857,2026-09-19,2026-09-19,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-19,inactive,campaign,SuperAuto GAC,952398236874786,194.2,4900,3987,85,2.28470588,Leads (formulário),12,16.18333333,2026-09-19,2026-09-19,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-19,active,campaign,SuperAuto GAC,952398236874786,554.36,26778,19593,429,1.29221445,Leads (formulário),27,20.53185185,2026-09-19,2026-09-19,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-18,active,campaign,SuperAuto GAC,952398236874786,74.1,1805,1262,17,4.35882353,Conversas por mensagem iniciadas,8,9.2625,2026-09-18,2026-09-18,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-18,inactive,campaign,SuperAuto GAC,952398236874786,168.83,4002,3333,93,1.81537634,Leads (formulário),12,14.06916667,2026-09-18,2026-09-18,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-18,active,campaign,SuperAuto GAC,952398236874786,596.47,26877,19833,461,1.29386117,Leads (formulário),29,20.56793103,2026-09-18,2026-09-18,
-[SET]_[N]_Card/Vídeo [Semana GS/Wts],2026-09-18,inactive,campaign,SuperAuto GAC,952398236874786,28.8,731,518,9,3.2,Conversas por mensagem iniciadas,2,14.4,2026-09-18,2026-09-18,
-[AGO]_[N]_Vídeo [Semana GS] Encerrada,2026-09-18,inactive,campaign,SuperAuto GAC,952398236874786,269.37,136172,118443,55,4.89763636,Alcance,118443,2.2742585,2026-09-18,2026-09-18,
-[AGO]_[N]_Vídeo [Semana GS] Encerrada,2026-09-17,inactive,campaign,SuperAuto GAC,952398236874786,206.72,107563,100714,94,2.19914894,Alcance,100714,2.05254483,2026-09-17,2026-09-17,
-[SET]_[N]_Card/Vídeo [Semana GS/Wts],2026-09-17,inactive,campaign,SuperAuto GAC,952398236874786,29.45,582,412,13,2.26538462,,,,2026-09-17,2026-09-17,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-17,active,campaign,SuperAuto GAC,952398236874786,70.62,1705,1207,13,5.43230769,Conversas por mensagem iniciadas,4,17.655,2026-09-17,2026-09-17,
-[SET]_[N]_Vídeo [GS9/eufranamaral],2026-09-17,inactive,campaign,SuperAuto GAC,952398236874786,19.79,189,119,4,4.9475,Conversas por mensagem iniciadas,1,19.79,2026-09-17,2026-09-17,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-17,inactive,campaign,SuperAuto GAC,952398236874786,221.32,4985,4052,111,1.99387387,Leads (formulário),12,18.44333333,2026-09-17,2026-09-17,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-17,active,campaign,SuperAuto GAC,952398236874786,561.53,25314,19085,360,1.55980556,Leads (formulário),18,31.19611111,2026-09-17,2026-09-17,
-[SET]_[N]_Vídeo [GS9/eufranamaral],2026-09-16,inactive,campaign,SuperAuto GAC,952398236874786,48.17,483,309,5,9.634,Conversas por mensagem iniciadas,2,24.085,2026-09-16,2026-09-16,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-16,active,campaign,SuperAuto GAC,952398236874786,554.31,25615,19044,392,1.41405612,Leads (formulário),29,19.11413793,2026-09-16,2026-09-16,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-16,inactive,campaign,SuperAuto GAC,952398236874786,161.98,3889,2834,94,1.72319149,Leads (formulário),6,26.99666667,2026-09-16,2026-09-16,
-[AGO]_[N]_Vídeo [Semana GS] Encerrada,2026-09-16,inactive,campaign,SuperAuto GAC,952398236874786,207.28,112381,108009,79,2.62379747,Alcance,108009,1.91909933,2026-09-16,2026-09-16,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-16,active,campaign,SuperAuto GAC,952398236874786,82.64,1902,1299,11,7.51272727,Conversas por mensagem iniciadas,5,16.528,2026-09-16,2026-09-16,
-[SET]_[N]_Card/Vídeo [Semana GS/Wts],2026-09-16,inactive,campaign,SuperAuto GAC,952398236874786,42.59,911,646,10,4.259,Conversas por mensagem iniciadas,1,42.59,2026-09-16,2026-09-16,
-[SET]_[N]_Vídeo [GS9/eufranamaral],2026-09-15,inactive,campaign,SuperAuto GAC,952398236874786,63.25,638,357,6,10.54166667,Conversas por mensagem iniciadas,5,12.65,2026-09-15,2026-09-15,
-[AGO]_[N]_Vídeo [Semana GS] Encerrada,2026-09-15,inactive,campaign,SuperAuto GAC,952398236874786,62.15,34498,34498,23,2.70217391,Alcance,34498,1.80155371,2026-09-15,2026-09-15,
-[SET]_[N]_Card/Vídeo [Semana GS/Wts],2026-09-15,inactive,campaign,SuperAuto GAC,952398236874786,50.8,1404,1003,12,4.23333333,Conversas por mensagem iniciadas,1,50.8,2026-09-15,2026-09-15,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-15,active,campaign,SuperAuto GAC,952398236874786,93.46,2280,1666,16,5.84125,Conversas por mensagem iniciadas,5,18.692,2026-09-15,2026-09-15,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-15,inactive,campaign,SuperAuto GAC,952398236874786,117.32,2804,2452,83,1.41349398,Leads (formulário),7,16.76,2026-09-15,2026-09-15,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-15,active,campaign,SuperAuto GAC,952398236874786,581.69,29349,21587,438,1.32805936,Leads (formulário),23,25.29086957,2026-09-15,2026-09-15,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-14,active,campaign,SuperAuto GAC,952398236874786,81.51,1447,1085,9,9.05666667,Conversas por mensagem iniciadas,2,40.755,2026-09-14,2026-09-14,
-[SET]_[N]_Vídeo [GS9/eufranamaral],2026-09-14,inactive,campaign,SuperAuto GAC,952398236874786,119.31,1475,925,14,8.52214286,Conversas por mensagem iniciadas,6,19.885,2026-09-14,2026-09-14,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-14,inactive,campaign,SuperAuto GAC,952398236874786,111.6,2932,2602,91,1.22637363,Leads (formulário),9,12.4,2026-09-14,2026-09-14,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-14,active,campaign,SuperAuto GAC,952398236874786,543.25,30318,21660,461,1.17841649,Leads (formulário),21,25.86904762,2026-09-14,2026-09-14,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-13,active,campaign,SuperAuto GAC,952398236874786,50.88,892,672,6,8.48,Conversas por mensagem iniciadas,3,16.96,2026-09-13,2026-09-13,
-[SET]_[N]_Vídeo [GS9/eufranamaral],2026-09-13,inactive,campaign,SuperAuto GAC,952398236874786,117.19,1136,675,11,10.65363636,Conversas por mensagem iniciadas,6,19.53166667,2026-09-13,2026-09-13,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-13,inactive,campaign,SuperAuto GAC,952398236874786,140.5,3944,3428,96,1.46354167,Leads (formulário),8,17.5625,2026-09-13,2026-09-13,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-13,active,campaign,SuperAuto GAC,952398236874786,668.14,37189,26709,559,1.1952415,Leads (formulário),23,29.04956522,2026-09-13,2026-09-13,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-12,active,campaign,SuperAuto GAC,952398236874786,515.79,25865,18535,442,1.1669457,Leads (formulário),27,19.10333333,2026-09-12,2026-09-12,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-12,active,campaign,SuperAuto GAC,952398236874786,35.4,788,572,3,11.8,Conversas por mensagem iniciadas,2,17.7,2026-09-12,2026-09-12,
-[SET]_[N]_Vídeo [GS9/eufranamaral],2026-09-12,inactive,campaign,SuperAuto GAC,952398236874786,68.15,907,636,11,6.19545455,Conversas por mensagem iniciadas,3,22.71666667,2026-09-12,2026-09-12,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-12,inactive,campaign,SuperAuto GAC,952398236874786,98.6,2471,2191,81,1.21728395,Leads (formulário),10,9.86,2026-09-12,2026-09-12,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-11,active,campaign,SuperAuto GAC,952398236874786,580.77,26535,18013,414,1.40282609,Leads (formulário),25,23.2308,2026-09-11,2026-09-11,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-11,inactive,campaign,SuperAuto GAC,952398236874786,113.53,2832,2431,91,1.24758242,Leads (formulário),10,11.353,2026-09-11,2026-09-11,
-[SET]_[N]_Vídeo [GS9/eufranamaral],2026-09-11,inactive,campaign,SuperAuto GAC,952398236874786,85.5,1179,855,8,10.6875,Conversas por mensagem iniciadas,1,85.5,2026-09-11,2026-09-11,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-11,active,campaign,SuperAuto GAC,952398236874786,47.07,1072,747,13,3.62076923,Conversas por mensagem iniciadas,2,23.535,2026-09-11,2026-09-11,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-10,active,campaign,SuperAuto GAC,952398236874786,47.56,1213,915,7,6.79428571,Conversas por mensagem iniciadas,6,7.92666667,2026-09-10,2026-09-10,
-[SET]_[N]_Vídeo [GS9/eufranamaral],2026-09-10,inactive,campaign,SuperAuto GAC,952398236874786,95.97,1311,1011,17,5.64529412,Conversas por mensagem iniciadas,4,23.9925,2026-09-10,2026-09-10,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-10,inactive,campaign,SuperAuto GAC,952398236874786,114.53,2682,2429,112,1.02258929,Leads (formulário),12,9.54416667,2026-09-10,2026-09-10,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-10,active,campaign,SuperAuto GAC,952398236874786,619.01,25878,17281,413,1.49881356,Leads (formulário),23,26.91347826,2026-09-10,2026-09-10,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-09,active,campaign,SuperAuto GAC,952398236874786,63.55,1531,1108,6,10.59166667,Conversas por mensagem iniciadas,2,31.775,2026-09-09,2026-09-09,
-[SET]_[N]_Vídeo [GS9/eufranamaral],2026-09-09,inactive,campaign,SuperAuto GAC,952398236874786,125.66,1693,1240,14,8.97571429,Conversas por mensagem iniciadas,5,25.132,2026-09-09,2026-09-09,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-09,inactive,campaign,SuperAuto GAC,952398236874786,121.8,3109,2563,103,1.18252427,Leads (formulário),5,24.36,2026-09-09,2026-09-09,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-09,active,campaign,SuperAuto GAC,952398236874786,637.56,26425,18226,469,1.35940299,Leads (formulário),27,23.61333333,2026-09-09,2026-09-09,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-08,inactive,campaign,SuperAuto GAC,952398236874786,104.12,3280,2925,103,1.01087379,Leads (formulário),13,8.00923077,2026-09-08,2026-09-08,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-08,active,campaign,SuperAuto GAC,952398236874786,480.4,22831,14986,353,1.36090652,Leads (formulário),14,34.31428571,2026-09-08,2026-09-08,
-[SET]_[N]_Vídeo [GS9/eufranamaral],2026-09-08,inactive,campaign,SuperAuto GAC,952398236874786,109.64,1340,939,24,4.56833333,Conversas por mensagem iniciadas,5,21.928,2026-09-08,2026-09-08,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-08,active,campaign,SuperAuto GAC,952398236874786,50.48,1218,900,6,8.41333333,Conversas por mensagem iniciadas,1,50.48,2026-09-08,2026-09-08,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-07,active,campaign,SuperAuto GAC,952398236874786,593.05,28884,18631,436,1.36020642,Leads (formulário),22,26.95681818,2026-09-07,2026-09-07,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-07,inactive,campaign,SuperAuto GAC,952398236874786,97.21,2870,2482,88,1.10465909,Leads (formulário),13,7.47769231,2026-09-07,2026-09-07,
-[SET]_[N]_Vídeo [GS9/eufranamaral],2026-09-07,inactive,campaign,SuperAuto GAC,952398236874786,102.05,1542,1093,23,4.43695652,Conversas por mensagem iniciadas,3,34.01666667,2026-09-07,2026-09-07,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-07,active,campaign,SuperAuto GAC,952398236874786,55.24,1684,1260,12,4.60333333,Conversas por mensagem iniciadas,7,7.89142857,2026-09-07,2026-09-07,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-06,active,campaign,SuperAuto GAC,952398236874786,49.06,1116,753,10,4.906,Conversas por mensagem iniciadas,3,16.35333333,2026-09-06,2026-09-06,
-[SET]_[N]_Vídeo [GS9/eufranamaral],2026-09-06,inactive,campaign,SuperAuto GAC,952398236874786,110.89,1354,921,15,7.39266667,Conversas por mensagem iniciadas,5,22.178,2026-09-06,2026-09-06,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-06,inactive,campaign,SuperAuto GAC,952398236874786,89.76,2291,1985,77,1.16571429,Leads (formulário),8,11.22,2026-09-06,2026-09-06,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-06,active,campaign,SuperAuto GAC,952398236874786,633.25,27700,16682,459,1.37962963,Leads (formulário),34,18.625,2026-09-06,2026-09-06,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-05,active,campaign,SuperAuto GAC,952398236874786,42.83,1088,692,11,3.89363636,Conversas por mensagem iniciadas,2,21.415,2026-09-05,2026-09-05,
-[SET]_[N]_Vídeo [GS9/eufranamaral],2026-09-05,inactive,campaign,SuperAuto GAC,952398236874786,80.03,922,589,18,4.44611111,Conversas por mensagem iniciadas,6,13.33833333,2026-09-05,2026-09-05,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-05,inactive,campaign,SuperAuto GAC,952398236874786,137.5,3055,2508,114,1.20614035,Leads (formulário),12,11.45833333,2026-09-05,2026-09-05,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-05,active,campaign,SuperAuto GAC,952398236874786,480.29,20205,12821,328,1.46429878,Leads (formulário),27,17.78851852,2026-09-05,2026-09-05,
-[AGO]_[PV]_Vídeo/Card_Condição - GAC FEST,2026-09-04,inactive,campaign,SuperAuto GAC,952398236874786,4.23,88,85,1,4.23,Conversas por mensagem iniciadas,2,2.115,2026-09-04,2026-09-04,
-[SET]_[N]_Vários formatos_Move Brasil,2026-09-04,inactive,campaign,SuperAuto GAC,952398236874786,36.32,1612,1335,16,2.27,Conversas por mensagem iniciadas,9,4.03555556,2026-09-04,2026-09-04,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-04,active,campaign,SuperAuto GAC,952398236874786,448.45,18658,11239,298,1.50486577,Leads (formulário),26,17.24807692,2026-09-04,2026-09-04,
-[AGO]_[N]_Vídeo_GAC [GS3/Form],2026-09-04,inactive,campaign,SuperAuto GAC,952398236874786,2.48,45,44,3,0.82666667,,,,2026-09-04,2026-09-04,
-[SET]_[N]_Vídeo [Semana GS+SG9/Form],2026-09-04,inactive,campaign,SuperAuto GAC,952398236874786,130.61,2771,2316,79,1.65329114,Leads (formulário),10,13.061,2026-09-04,2026-09-04,
-[SET]_[N]_Vídeo [GS9/eufranamaral],2026-09-04,inactive,campaign,SuperAuto GAC,952398236874786,78.73,1093,814,13,6.05615385,Conversas por mensagem iniciadas,3,26.24333333,2026-09-04,2026-09-04,
-[SET]_[PV]_Vídeo_Loja [FLN],2026-09-04,active,campaign,SuperAuto GAC,952398236874786,18.39,422,343,4,4.5975,Conversas por mensagem iniciadas,4,4.5975,2026-09-04,2026-09-04,
-[SET]_[N]_Vídeo [GS9/eufranamaral],2026-09-03,inactive,campaign,SuperAuto GAC,952398236874786,7.09,124,111,1,7.09,,,,2026-09-03,2026-09-03,
-[AGO]_[N]_Vídeo_GAC [GS3/Form],2026-09-03,inactive,campaign,SuperAuto GAC,952398236874786,19.51,315,262,8,2.43875,,,,2026-09-03,2026-09-03,
-[AGO]_[PV]_Vídeo/Card_Condição - GAC FEST,2026-09-03,inactive,campaign,SuperAuto GAC,952398236874786,22.45,423,352,6,3.74166667,Conversas por mensagem iniciadas,1,22.45,2026-09-03,2026-09-03,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-03,active,campaign,SuperAuto GAC,952398236874786,158.71,7271,5281,127,1.24968504,Leads (formulário),18,8.81722222,2026-09-03,2026-09-03,
-[SET]_[N]_Vários formatos_Move Brasil,2026-09-03,inactive,campaign,SuperAuto GAC,952398236874786,19.33,832,753,7,2.76142857,Conversas por mensagem iniciadas,4,4.8325,2026-09-03,2026-09-03,
-[SET]_[N]_Vídeo [GS9/eufranamaral],2026-09-02,inactive,campaign,SuperAuto GAC,952398236874786,12.73,128,118,6,2.12166667,Conversas por mensagem iniciadas,3,4.24333333,2026-09-02,2026-09-02,
-[AGO]_[N]_Vídeo_GAC [GS3/Form],2026-09-02,inactive,campaign,SuperAuto GAC,952398236874786,18.26,389,341,8,2.2825,,,,2026-09-02,2026-09-02,
-[AGO]_[PV]_Vídeo/Card_Condição - GAC FEST,2026-09-02,inactive,campaign,SuperAuto GAC,952398236874786,22.86,459,375,6,3.81,Conversas por mensagem iniciadas,3,7.62,2026-09-02,2026-09-02,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-02,active,campaign,SuperAuto GAC,952398236874786,91.45,5194,3947,106,0.86273585,Leads (formulário),14,6.53214286,2026-09-02,2026-09-02,
-[SET]_[N]_Vários formatos_Move Brasil,2026-09-02,inactive,campaign,SuperAuto GAC,952398236874786,20.02,859,709,15,1.33466667,Conversas por mensagem iniciadas,10,2.002,2026-09-02,2026-09-02,
-[AGO]_[PV]_Vídeo/Card_Condição - GAC FEST,2026-09-01,inactive,campaign,SuperAuto GAC,952398236874786,22.38,366,301,5,4.476,Conversas por mensagem iniciadas,3,7.46,2026-09-01,2026-09-01,
-[SET]_[N]_Card_Oferta - TM -BC | FLN,2026-09-01,active,campaign,SuperAuto GAC,952398236874786,101.85,5944,4339,107,0.95186916,Leads (formulário),16,6.365625,2026-09-01,2026-09-01,
-[AGO]_[N]_Vídeo_GAC [GS3/Form],2026-09-01,inactive,campaign,SuperAuto GAC,952398236874786,17.7,418,340,6,2.95,,,,2026-09-01,2026-09-01,
-[SET]_[N]_Vídeo [GS9/eufranamaral],2026-09-01,inactive,campaign,SuperAuto GAC,952398236874786,11.67,162,136,1,11.67,Conversas por mensagem iniciadas,3,3.89,2026-09-01,2026-09-01,
-[SET]_[N]_Vários formatos_Move Brasil,2026-09-01,inactive,campaign,SuperAuto GAC,952398236874786,18.11,521,444,11,1.64636364,Conversas por mensagem iniciadas,9,2.01222222,2026-09-01,2026-09-01,
-[SET]_[PV]_Card_Loja_Peças Site 2,2026-09-30,active,campaign,SuperAuto [Mitsubishi],1876369346602489,57.11,9896,3694,241,0.23697095,Cliques no link,241,0.23697095,2026-09-30,2026-09-30,
-[SET]_[N]_Card_Oferta - T/E/A 2,2026-09-30,active,campaign,SuperAuto [Mitsubishi],1876369346602489,214.28,5587,4599,68,3.15117647,Leads (formulário),3,71.42666667,2026-09-30,2026-09-30,
-[SET]_[PV]_Card_Loja_Peças Site,2026-09-30,active,campaign,SuperAuto [Mitsubishi],1876369346602489,7.46,3340,3148,6,1.24333333,Alcance,3148,2.36975858,2026-09-30,2026-09-30,
-[SET]_[SN]_Feed_Oferta,2026-09-30,active,campaign,SuperAuto [Mitsubishi],1876369346602489,55.29,2723,2464,26,2.12653846,Conversas por mensagem iniciadas,2,27.645,2026-09-30,2026-09-30,
-[SET]_[PV]_Card_Loja_Peças Site 2,2026-09-29,active,campaign,SuperAuto [Mitsubishi],1876369346602489,87.36,21003,6665,385,0.22690909,Cliques no link,385,0.22690909,2026-09-29,2026-09-29,
-[SET]_[N]_Card_Oferta - T/E/A 2,2026-09-29,active,campaign,SuperAuto [Mitsubishi],1876369346602489,356.84,10358,7571,120,2.97366667,Leads (formulário),8,44.605,2026-09-29,2026-09-29,
-[SET]_[PV]_Card_Loja_Peças Site,2026-09-29,active,campaign,SuperAuto [Mitsubishi],1876369346602489,19.12,9486,9211,27,0.70814815,Alcance,9211,2.07577896,2026-09-29,2026-09-29,
-[SET]_[SN]_Feed_Oferta,2026-09-29,active,campaign,SuperAuto [Mitsubishi],1876369346602489,69.86,2722,2337,41,1.70390244,Conversas por mensagem iniciadas,3,23.28666667,2026-09-29,2026-09-29,
-[SET]_[SN]_Feed_Oferta,2026-09-28,active,campaign,SuperAuto [Mitsubishi],1876369346602489,59.5,3559,3231,34,1.75,Conversas por mensagem iniciadas,2,29.75,2026-09-28,2026-09-28,
-[SET]_[PV]_Card_Loja_Peças Site,2026-09-28,active,campaign,SuperAuto [Mitsubishi],1876369346602489,18.89,10469,10272,23,0.82130435,Alcance,10272,1.83897975,2026-09-28,2026-09-28,
-[SET]_[N]_Card_Oferta - T/E/A 2,2026-09-28,active,campaign,SuperAuto [Mitsubishi],1876369346602489,364.34,12492,8885,152,2.39697368,Leads (formulário),9,40.48222222,2026-09-28,2026-09-28,
-[SET]_[PV]_Card_Loja_Peças Site 2,2026-09-28,active,campaign,SuperAuto [Mitsubishi],1876369346602489,103.69,24367,7711,533,0.19454034,Cliques no link,533,0.19454034,2026-09-28,2026-09-28,
-[SET]_[PV]_Card_Loja_Peças Site 2,2026-09-27,active,campaign,SuperAuto [Mitsubishi],1876369346602489,126.99,23005,6275,596,0.21307047,Cliques no link,596,0.21307047,2026-09-27,2026-09-27,
-[SET]_[N]_Card_Oferta - T/E/A 2,2026-09-27,active,campaign,SuperAuto [Mitsubishi],1876369346602489,446.08,15432,11000,177,2.52022599,Leads (formulário),12,37.17333333,2026-09-27,2026-09-27,
-[SET]_[PV]_Card_Loja_Peças Site,2026-09-27,active,campaign,SuperAuto [Mitsubishi],1876369346602489,24.64,13171,12842,21,1.17333333,Alcance,12842,1.91870425,2026-09-27,2026-09-27,
-[SET]_[SN]_Feed_Oferta,2026-09-27,active,campaign,SuperAuto [Mitsubishi],1876369346602489,62.45,6486,5892,57,1.09561404,Conversas por mensagem iniciadas,4,15.6125,2026-09-27,2026-09-27,
-[SET]_[PV]_Card_Loja_Peças Site 2,2026-09-26,active,campaign,SuperAuto [Mitsubishi],1876369346602489,75.68,10062,3194,296,0.25567568,Cliques no link,296,0.25567568,2026-09-26,2026-09-26,
-[SET]_[N]_Card_Oferta - T/E/A 2,2026-09-26,active,campaign,SuperAuto [Mitsubishi],1876369346602489,312.69,8887,6387,132,2.36886364,Leads (formulário),7,44.67,2026-09-26,2026-09-26,
-[SET]_[PV]_Card_Loja_Peças Site,2026-09-26,active,campaign,SuperAuto [Mitsubishi],1876369346602489,17.32,8846,8557,14,1.23714286,Alcance,8557,2.02407386,2026-09-26,2026-09-26,
-[SET]_[SN]_Feed_Oferta,2026-09-26,active,campaign,SuperAuto [Mitsubishi],1876369346602489,27.53,2837,2566,25,1.1012,Conversas por mensagem iniciadas,1,27.53,2026-09-26,2026-09-26,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-25,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,103.78,3000,2527,35,2.96514286,Leads (formulário),3,34.59333333,2026-09-25,2026-09-25,
-[SET]_[SN]_Feed_Oferta,2026-09-25,active,campaign,SuperAuto [Mitsubishi],1876369346602489,52,3623,3265,36,1.44444444,,,,2026-09-25,2026-09-25,
-[SET]_[PV]_Card_Loja_Peças Site,2026-09-25,active,campaign,SuperAuto [Mitsubishi],1876369346602489,46.17,22762,22528,40,1.15425,Alcance,22528,2.04944957,2026-09-25,2026-09-25,
-[SET]_[PV]_Card_Loja_Peças Encerrada,2026-09-25,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,19.96,1303,1153,15,1.33066667,Conversas por mensagem iniciadas,3,6.65333333,2026-09-25,2026-09-25,
-[SET]_[N]_Card_Oferta - T/E/A 2,2026-09-25,active,campaign,SuperAuto [Mitsubishi],1876369346602489,185.37,5301,4127,44,4.21295455,Leads (formulário),4,46.3425,2026-09-25,2026-09-25,
-[SET]_[PV]_Card_Loja_Peças Site 2,2026-09-25,active,campaign,SuperAuto [Mitsubishi],1876369346602489,54.21,8603,4840,238,0.22777311,Cliques no link,238,0.22777311,2026-09-25,2026-09-25,
-[SET]_[PV]_Card_Loja_Peças Site,2026-09-24,active,campaign,SuperAuto [Mitsubishi],1876369346602489,48.03,25044,24962,38,1.26394737,Alcance,24962,1.92412467,2026-09-24,2026-09-24,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-24,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,175.53,7178,5865,75,2.3404,Leads (formulário),5,35.106,2026-09-24,2026-09-24,
-[SET]_[SN]_Feed_Oferta,2026-09-24,active,campaign,SuperAuto [Mitsubishi],1876369346602489,48.68,3533,3182,48,1.01416667,Conversas por mensagem iniciadas,4,12.17,2026-09-24,2026-09-24,
-[SET]_[PV]_Card_Loja_Peças Site,2026-09-23,active,campaign,SuperAuto [Mitsubishi],1876369346602489,46.91,27094,26756,32,1.4659375,Alcance,26756,1.75325161,2026-09-23,2026-09-23,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-23,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,207.69,7682,6365,83,2.50228916,Leads (formulário),4,51.9225,2026-09-23,2026-09-23,
-[SET]_[SN]_Feed_Oferta,2026-09-23,active,campaign,SuperAuto [Mitsubishi],1876369346602489,52.49,4861,4642,42,1.2497619,,,,2026-09-23,2026-09-23,
-[SET]_[PV]_Card_Loja_Peças Site,2026-09-22,active,campaign,SuperAuto [Mitsubishi],1876369346602489,18,11512,10930,20,0.9,Alcance,10930,1.64684355,2026-09-22,2026-09-22,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-22,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,198.77,7528,5905,79,2.51607595,Leads (formulário),7,28.39571429,2026-09-22,2026-09-22,
-[SET]_[SN]_Feed_Oferta,2026-09-22,active,campaign,SuperAuto [Mitsubishi],1876369346602489,84.35,5285,4571,85,0.99235294,Conversas por mensagem iniciadas,3,28.11666667,2026-09-22,2026-09-22,
-[SET]_[SN]_Feed_Oferta,2026-09-21,active,campaign,SuperAuto [Mitsubishi],1876369346602489,82.19,4912,4066,78,1.05371795,Conversas por mensagem iniciadas,5,16.438,2026-09-21,2026-09-21,
-[SET]_[PV]_Card_Loja_Peças Site,2026-09-21,active,campaign,SuperAuto [Mitsubishi],1876369346602489,17.21,10179,10130,16,1.075625,Alcance,10130,1.69891412,2026-09-21,2026-09-21,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-21,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,202.3,7629,6100,89,2.27303371,Leads (formulário),5,40.46,2026-09-21,2026-09-21,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-20,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,220.86,8395,6649,114,1.93736842,Leads (formulário),3,73.62,2026-09-20,2026-09-20,
-[SET]_[SN]_Feed_Oferta,2026-09-20,active,campaign,SuperAuto [Mitsubishi],1876369346602489,72.2,6545,5585,113,0.63893805,Conversas por mensagem iniciadas,7,10.31428571,2026-09-20,2026-09-20,
-[SET]_[N]_Card_Oferta - Farroupilha,2026-09-19,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,31.75,814,710,12,2.64583333,Leads (formulário),1,31.75,2026-09-19,2026-09-19,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-19,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,153.13,5646,4425,94,1.62904255,Leads (formulário),4,38.2825,2026-09-19,2026-09-19,
-[SET]_[SN]_Feed_Oferta,2026-09-19,active,campaign,SuperAuto [Mitsubishi],1876369346602489,42.9,3334,2800,86,0.49883721,Conversas por mensagem iniciadas,1,42.9,2026-09-19,2026-09-19,
-[SET]_[N]_Card_Oferta - Farroupilha,2026-09-18,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,54.92,1796,1314,18,3.05111111,Leads (formulário),2,27.46,2026-09-18,2026-09-18,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-18,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,171.85,4950,3845,57,3.01491228,Leads (formulário),3,57.28333333,2026-09-18,2026-09-18,
-[SET]_[SN]_Feed_Oferta,2026-09-18,active,campaign,SuperAuto [Mitsubishi],1876369346602489,49.54,2655,2153,60,0.82566667,Conversas por mensagem iniciadas,2,24.77,2026-09-18,2026-09-18,
-[SET]_[SN]_Feed_Oferta,2026-09-17,active,campaign,SuperAuto [Mitsubishi],1876369346602489,59.68,4650,3917,69,0.86492754,Conversas por mensagem iniciadas,3,19.89333333,2026-09-17,2026-09-17,
-[SET]_[N]_Card_Oferta - Farroupilha,2026-09-17,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,36.28,1027,754,14,2.59142857,Leads (formulário),3,12.09333333,2026-09-17,2026-09-17,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-17,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,174.65,5867,4615,65,2.68692308,Leads (formulário),6,29.10833333,2026-09-17,2026-09-17,
-[SET]_[N]_Card_Oferta - Farroupilha,2026-09-16,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,65.9,1998,1254,31,2.12580645,Leads (formulário),4,16.475,2026-09-16,2026-09-16,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-16,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,179.48,5764,4643,53,3.38641509,Leads (formulário),3,59.82666667,2026-09-16,2026-09-16,
-[SET]_[SN]_Feed_Oferta,2026-09-16,active,campaign,SuperAuto [Mitsubishi],1876369346602489,50.77,4516,3831,49,1.03612245,Conversas por mensagem iniciadas,3,16.92333333,2026-09-16,2026-09-16,
-[SET]_[N]_Card_Oferta - Farroupilha,2026-09-15,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,9.25,286,242,,,,,,2026-09-15,2026-09-15,
-[SET]_[N]_Card_Oferta - Agromonstra,2026-09-15,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,38.14,2676,2195,15,2.54266667,Leads (formulário),4,9.535,2026-09-15,2026-09-15,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-15,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,190.87,6290,5137,64,2.98234375,Leads (formulário),4,47.7175,2026-09-15,2026-09-15,
-[SET]_[SN]_Feed_Oferta,2026-09-15,active,campaign,SuperAuto [Mitsubishi],1876369346602489,52.04,3136,2646,48,1.08416667,Conversas por mensagem iniciadas,3,17.34666667,2026-09-15,2026-09-15,
-[SET]_[N]_Card_Oferta - Agromonstra,2026-09-14,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,48.2,3400,2696,17,2.83529412,,,,2026-09-14,2026-09-14,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-14,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,265.05,8732,7024,118,2.24618644,Leads (formulário),6,44.175,2026-09-14,2026-09-14,
-[SET]_[SN]_Feed_Oferta,2026-09-14,active,campaign,SuperAuto [Mitsubishi],1876369346602489,85.24,6197,5647,74,1.15189189,Conversas por mensagem iniciadas,6,14.20666667,2026-09-14,2026-09-14,
-[SET]_[SN]_Feed_Oferta,2026-09-13,active,campaign,SuperAuto [Mitsubishi],1876369346602489,79.57,2551,1822,76,1.04697368,Conversas por mensagem iniciadas,4,19.8925,2026-09-13,2026-09-13,
-[SET]_[N]_Card_Oferta - Agromonstra,2026-09-13,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,60.94,3863,2931,29,2.10137931,Leads (formulário),1,60.94,2026-09-13,2026-09-13,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-13,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,460.86,16641,12205,188,2.45138298,Leads (formulário),13,35.45076923,2026-09-13,2026-09-13,
-[SET]_[N]_Card_Oferta - Agromonstra,2026-09-12,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,21.72,1792,1493,11,1.97454545,Leads (formulário),1,21.72,2026-09-12,2026-09-12,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-12,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,251.46,9981,7468,119,2.11310924,Leads (formulário),5,50.292,2026-09-12,2026-09-12,
-[SET]_[SN]_Feed_Oferta,2026-09-12,active,campaign,SuperAuto [Mitsubishi],1876369346602489,42.64,1568,1161,37,1.15243243,Conversas por mensagem iniciadas,4,10.66,2026-09-12,2026-09-12,
-[SET]_[N]_Card_Oferta - T/E/A — [A/B],2026-09-11,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,11.23,398,362,6,1.87166667,,,,2026-09-11,2026-09-11,
-[SET]_[N]_Card_Oferta - Agromonstra,2026-09-11,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,40.53,2186,1770,25,1.6212,Leads (formulário),2,20.265,2026-09-11,2026-09-11,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-11,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,357.03,11110,8178,149,2.3961745,Leads (formulário),8,44.62875,2026-09-11,2026-09-11,
-[SET]_[SN]_Feed_Oferta,2026-09-11,active,campaign,SuperAuto [Mitsubishi],1876369346602489,57.34,2542,1771,63,0.91015873,Conversas por mensagem iniciadas,4,14.335,2026-09-11,2026-09-11,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-10,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,206.42,6673,5005,100,2.0642,Leads (formulário),3,68.80666667,2026-09-10,2026-09-10,
-[SET]_[SN]_Feed_Oferta,2026-09-10,active,campaign,SuperAuto [Mitsubishi],1876369346602489,74.02,4229,3365,85,0.87082353,Conversas por mensagem iniciadas,11,6.72909091,2026-09-10,2026-09-10,
-[SET]_[N]_Card_Oferta - Agromonstra,2026-09-10,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,59.65,3248,2742,29,2.05689655,Leads (formulário),1,59.65,2026-09-10,2026-09-10,
-[SET]_[N]_Card_Oferta - T/E/A — [A/B],2026-09-10,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,28.48,1006,895,13,2.19076923,Leads (formulário),1,28.48,2026-09-10,2026-09-10,
-[SET]_[SN]_Feed_Oferta,2026-09-09,active,campaign,SuperAuto [Mitsubishi],1876369346602489,70.87,4178,3552,51,1.38960784,Conversas por mensagem iniciadas,5,14.174,2026-09-09,2026-09-09,
-[SET]_[N]_Card_Oferta - Agromonstra,2026-09-09,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,56.32,2619,2274,14,4.02285714,,,,2026-09-09,2026-09-09,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-09,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,203.14,6093,4526,101,2.01128713,Leads (formulário),7,29.02,2026-09-09,2026-09-09,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-08,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,161,5521,3787,60,2.68333333,Leads (formulário),2,80.5,2026-09-08,2026-09-08,
-[SET]_[SN]_Feed_Oferta,2026-09-08,active,campaign,SuperAuto [Mitsubishi],1876369346602489,49.37,3261,2691,62,0.79629032,Conversas por mensagem iniciadas,8,6.17125,2026-09-08,2026-09-08,
-[SET]_[N]_Card_Oferta - T/E/A encerrada,2026-09-07,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,168.51,5320,3230,54,3.12055556,Leads (formulário),2,84.255,2026-09-07,2026-09-07,
-[SET]_[SN]_Feed_Oferta,2026-09-07,active,campaign,SuperAuto [Mitsubishi],1876369346602489,57.73,2650,2027,60,0.96216667,Conversas por mensagem iniciadas,8,7.21625,2026-09-07,2026-09-07,
-[SET]_[SN]_Feed_Oferta,2026-09-06,active,campaign,SuperAuto [Mitsubishi],1876369346602489,86.33,4025,3070,86,1.00383721,Conversas por mensagem iniciadas,14,6.16642857,2026-09-06,2026-09-06,
-[AGO]_[N]_Card_Condição - Pré-Expointer [3],2026-09-06,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,95.81,56948,54716,71,1.34943662,Alcance,54716,1.75104174,2026-09-06,2026-09-06,
-[AGO]_[N]_Card_Oferta,2026-09-06,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,342.5,14735,10510,168,2.03869048,Leads (formulário),5,68.5,2026-09-06,2026-09-06,
-[AGO]_[N]_Card_Oferta,2026-09-05,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,308.33,11479,8172,163,1.89159509,Leads (formulário),6,51.38833333,2026-09-05,2026-09-05,
-[AGO]_[N]_Card_Condição - Pré-Expointer [3],2026-09-05,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,136.27,81947,79538,111,1.22765766,Alcance,79538,1.71326913,2026-09-05,2026-09-05,
-[SET]_[SN]_Feed_Oferta,2026-09-05,active,campaign,SuperAuto [Mitsubishi],1876369346602489,46.67,2975,2291,53,0.88056604,Conversas por mensagem iniciadas,7,6.66714286,2026-09-05,2026-09-05,
-[SET]_[SN]_Feed_Oferta,2026-09-04,active,campaign,SuperAuto [Mitsubishi],1876369346602489,43.64,2429,1870,46,0.94869565,Conversas por mensagem iniciadas,5,8.728,2026-09-04,2026-09-04,
-[AGO]_[N]_Card_Condição - Pré-Expointer [3],2026-09-04,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,95.47,59066,55741,82,1.16426829,Alcance,55741,1.71274286,2026-09-04,2026-09-04,
-[AGO]_[SN]_Carrossel_Teste AB,2026-09-04,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,10.53,1551,1448,15,0.702,Conversas por mensagem iniciadas,1,10.53,2026-09-04,2026-09-04,
-[AGO]_[N]_Card_Oferta,2026-09-04,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,346.37,12901,9034,137,2.52824818,Leads (formulário),9,38.48555556,2026-09-04,2026-09-04,
-[AGO]_[N]_Card_Condição - Pré-Expointer [3],2026-09-03,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,49.47,32868,31523,45,1.09933333,Alcance,31523,1.56933033,2026-09-03,2026-09-03,
-[AGO]_[SN]_Carrossel_Teste AB,2026-09-03,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,44.36,3550,2915,39,1.1374359,,,,2026-09-03,2026-09-03,
-[AGO]_[N]_Card_Oferta,2026-09-03,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,342.28,11656,8446,101,3.38891089,Leads (formulário),6,57.04666667,2026-09-03,2026-09-03,
-[AGO]_[N]_Card_Oferta,2026-09-02,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,319.84,11290,8547,139,2.30100719,Leads (formulário),7,45.69142857,2026-09-02,2026-09-02,
-[AGO]_[N]_Card_Condição - Pré-Expointer [3],2026-09-02,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,98.92,68435,66513,74,1.33675676,Alcance,66513,1.48722806,2026-09-02,2026-09-02,
-[AGO]_[SN]_Carrossel_Teste AB,2026-09-02,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,64.56,4294,3300,63,1.0247619,Conversas por mensagem iniciadas,3,21.52,2026-09-02,2026-09-02,
-[AGO]_[SN]_Carrossel_Teste AB,2026-09-01,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,81.13,4074,3018,88,0.92193182,Conversas por mensagem iniciadas,1,81.13,2026-09-01,2026-09-01,
-[AGO]_[N]_Card_Condição - Pré-Expointer [3],2026-09-01,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,104.21,75392,74326,86,1.21174419,Alcance,74326,1.40206657,2026-09-01,2026-09-01,
-[AGO]_[N]_Card_Oferta,2026-09-01,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,390.01,15314,11749,191,2.04193717,Leads (formulário),11,35.45545455,2026-09-01,2026-09-01,
-[AGO]_[N]_Card_Oferta,2026-09-30,active,campaign,Sagara [Suzuki],498872405861498,79,2868,2365,95,0.83157895,Leads (formulário),10,7.9,2026-09-30,2026-09-30,
-[AGO]_[N]_Card_Oferta,2026-09-29,active,campaign,Sagara [Suzuki],498872405861498,146.59,6200,5160,150,0.97726667,Leads (formulário),12,12.21583333,2026-09-29,2026-09-29,
-[AGO]_[N]_Card_Oferta,2026-09-28,active,campaign,Sagara [Suzuki],498872405861498,92.36,4094,3515,97,0.95216495,Leads (formulário),12,7.69666667,2026-09-28,2026-09-28,
-[AGO]_[N]_Card_Oferta,2026-09-27,active,campaign,Sagara [Suzuki],498872405861498,122.7,5846,4917,154,0.79675325,Leads (formulário),18,6.81666667,2026-09-27,2026-09-27,
-[AGO]_[N]_Card_Oferta,2026-09-26,active,campaign,Sagara [Suzuki],498872405861498,84.88,3462,2895,84,1.01047619,Leads (formulário),10,8.488,2026-09-26,2026-09-26,
-[AGO]_[N]_Card_Oferta,2026-09-25,active,campaign,Sagara [Suzuki],498872405861498,101.24,4340,3702,109,0.92880734,Leads (formulário),9,11.24888889,2026-09-25,2026-09-25,
-[AGO]_[N]_Card_Oferta,2026-09-24,active,campaign,Sagara [Suzuki],498872405861498,100.99,4223,3584,143,0.70622378,Leads (formulário),22,4.59045455,2026-09-24,2026-09-24,
-[AGO]_[N]_Card_Oferta,2026-09-23,active,campaign,Sagara [Suzuki],498872405861498,85.58,3968,3384,102,0.83901961,Leads (formulário),13,6.58307692,2026-09-23,2026-09-23,
-[AGO]_[N]_Card_Oferta,2026-09-22,active,campaign,Sagara [Suzuki],498872405861498,79.76,4126,3476,116,0.68758621,Leads (formulário),14,5.69714286,2026-09-22,2026-09-22,
-[AGO]_[N]_Card_Oferta,2026-09-21,active,campaign,Sagara [Suzuki],498872405861498,61.43,3723,3272,73,0.84150685,Leads (formulário),7,8.77571429,2026-09-21,2026-09-21,
-[AGO]_[N]_Card_Oferta,2026-09-20,active,campaign,Sagara [Suzuki],498872405861498,68.42,3773,3232,77,0.88857143,Leads (formulário),11,6.22,2026-09-20,2026-09-20,
-[AGO]_[N]_Card_Oferta,2026-09-19,active,campaign,Sagara [Suzuki],498872405861498,54.89,2845,2473,73,0.75191781,Leads (formulário),7,7.84142857,2026-09-19,2026-09-19,
-[AGO]_[N]_Card_Oferta,2026-09-18,active,campaign,Sagara [Suzuki],498872405861498,56.2,2463,2175,62,0.90645161,Leads (formulário),6,9.36666667,2026-09-18,2026-09-18,
-[AGO]_[N]_Card_Oferta,2026-09-17,active,campaign,Sagara [Suzuki],498872405861498,59.49,2420,2038,73,0.81493151,Leads (formulário),3,19.83,2026-09-17,2026-09-17,
-[AGO]_[N]_Card_Oferta,2026-09-16,active,campaign,Sagara [Suzuki],498872405861498,65.07,3393,2946,89,0.7311236,Leads (formulário),10,6.507,2026-09-16,2026-09-16,
-[AGO]_[N]_Card_Oferta,2026-09-15,active,campaign,Sagara [Suzuki],498872405861498,50.36,3022,2625,67,0.75164179,Leads (formulário),5,10.072,2026-09-15,2026-09-15,
-[AGO]_[N]_Card_Oferta,2026-09-14,active,campaign,Sagara [Suzuki],498872405861498,61.01,3666,3168,99,0.61626263,Leads (formulário),7,8.71571429,2026-09-14,2026-09-14,
-[AGO]_[N]_Card_Oferta,2026-09-13,active,campaign,Sagara [Suzuki],498872405861498,72.62,3983,3353,100,0.7262,Leads (formulário),8,9.0775,2026-09-13,2026-09-13,
-[AGO]_[N]_Card_Oferta,2026-09-12,active,campaign,Sagara [Suzuki],498872405861498,49.29,2717,2394,57,0.86473684,Leads (formulário),4,12.3225,2026-09-12,2026-09-12,
-[AGO]_[N]_Card_Oferta,2026-09-11,active,campaign,Sagara [Suzuki],498872405861498,57.95,2826,2489,65,0.89153846,Leads (formulário),10,5.795,2026-09-11,2026-09-11,
-[AGO]_[N]_Card_Oferta,2026-09-10,active,campaign,Sagara [Suzuki],498872405861498,57.54,3092,2532,67,0.85880597,Leads (formulário),6,9.59,2026-09-10,2026-09-10,
-[AGO]_[N]_Card_Oferta,2026-09-09,active,campaign,Sagara [Suzuki],498872405861498,60.59,3040,2639,68,0.89102941,Leads (formulário),9,6.73222222,2026-09-09,2026-09-09,
-[AGO]_[N]_Card_Oferta,2026-09-08,active,campaign,Sagara [Suzuki],498872405861498,52.39,3096,2679,72,0.72763889,Leads (formulário),5,10.478,2026-09-08,2026-09-08,
-[AGO]_[N]_Card_Oferta,2026-09-07,active,campaign,Sagara [Suzuki],498872405861498,66.47,3882,3353,110,0.60427273,Leads (formulário),12,5.53916667,2026-09-07,2026-09-07,
-[AGO]_[N]_Card_Oferta,2026-09-06,active,campaign,Sagara [Suzuki],498872405861498,75.68,4608,3857,105,0.7207619,Leads (formulário),12,6.30666667,2026-09-06,2026-09-06,
-[AGO]_[N]_Card_Oferta,2026-09-05,active,campaign,Sagara [Suzuki],498872405861498,57.14,3222,2810,103,0.55475728,Leads (formulário),15,3.80933333,2026-09-05,2026-09-05,
-[AGO]_[N]_Card_Oferta,2026-09-04,active,campaign,Sagara [Suzuki],498872405861498,58.67,3259,2760,55,1.06672727,Leads (formulário),3,19.55666667,2026-09-04,2026-09-04,
-[AGO]_[N]_Card_Oferta,2026-09-03,active,campaign,Sagara [Suzuki],498872405861498,54.02,3006,2584,68,0.79441176,Leads (formulário),13,4.15538462,2026-09-03,2026-09-03,
-[AGO]_[N]_Card_Oferta,2026-09-02,active,campaign,Sagara [Suzuki],498872405861498,55.51,3181,2835,87,0.63804598,Leads (formulário),8,6.93875,2026-09-02,2026-09-02,
-[AGO]_[N]_Card_Oferta,2026-09-01,active,campaign,Sagara [Suzuki],498872405861498,63.76,4361,3683,92,0.69304348,Leads (formulário),19,3.35578947,2026-09-01,2026-09-01,
+Marca,Nome da campanha,Dia,Status de veiculação,Nível de veiculação,Nome da conta,Identificação da conta,Valor gasto (BRL),Impressões,Alcance,Cliques no link,CPC (custo por clique no link),Tipo de resultado,Resultados,Custo por resultado,Início dos relatórios,Encerramento dos relatórios,Resultados (iniciais),freq
+GAC,[OUT]_[N]_Card_Oferta [SUPER SEMANA],2026-10-15,active,campaign,SuperAuto GAC,952398236874786,35.06,1472,1214,31,1.13096774,Leads (formulário),1.0,35.06,2026-10-15,2026-10-15,,1.2125205930807248
+GAC,[OUT]_[N]_Vídeos_Oferta - Move Brasil,2026-10-15,active,campaign,SuperAuto GAC,952398236874786,34.19,1112,993,12,2.84916667,Leads (formulário),3.0,11.39666667,2026-10-15,2026-10-15,,1.1198388721047332
+GAC,[OUT]_[N]_Vídeos_Oferta - FLN/BC,2026-10-15,active,campaign,SuperAuto GAC,952398236874786,29.91,524,466,8,3.73875,Leads (formulário),1.0,29.91,2026-10-15,2026-10-15,,1.1244635193133048
+GAC,[OUT]_[N]_Card_Oferta - TM - FLN,2026-10-15,active,campaign,SuperAuto GAC,952398236874786,119.34,6688,4811,112,1.06553571,Leads (formulário),5.0,23.868,2026-10-15,2026-10-15,,1.3901475784660153
+GAC,[SET]_[PV]_Vídeo_Loja [FLN],2026-10-15,active,campaign,SuperAuto GAC,952398236874786,19.04,464,359,4,4.76,,,,2026-10-15,2026-10-15,,1.2924791086350975
+GAC,[OUT]_[N]_Card_Oferta - TM -BC | AB,2026-10-15,active,campaign,SuperAuto GAC,952398236874786,126.14,7716,5430,135,0.93437037,Leads (formulário),3.0,42.04666667,2026-10-15,2026-10-15,,1.4209944751381216
+GAC,[OUT]_[N]_Card_Oferta [SUPER SEMANA],2026-10-14,active,campaign,SuperAuto GAC,952398236874786,93.28,3630,2781,47,1.98468085,Leads (formulário),6.0,15.54666667,2026-10-14,2026-10-14,,1.3052858683926645
+GAC,[OUT]_[N]_Vídeos_Oferta - Move Brasil,2026-10-14,active,campaign,SuperAuto GAC,952398236874786,65.96,2450,1979,46,1.43391304,Leads (formulário),10.0,6.596,2026-10-14,2026-10-14,,1.23799898938858
+GAC,[OUT]_[N]_Vídeos_Oferta - FLN/BC,2026-10-14,active,campaign,SuperAuto GAC,952398236874786,74.46,1435,1198,37,2.01243243,Leads (formulário),3.0,24.82,2026-10-14,2026-10-14,,1.1978297161936562
+GAC,[OUT]_[N]_Card_Oferta - TM - FLN,2026-10-14,active,campaign,SuperAuto GAC,952398236874786,312.59,19239,12684,317,0.98608833,Leads (formulário),11.0,28.41727273,2026-10-14,2026-10-14,,1.5167928098391674
+GAC,[SET]_[PV]_Vídeo_Loja [FLN],2026-10-14,active,campaign,SuperAuto GAC,952398236874786,45.56,815,589,11,4.14181818,Conversas por mensagem iniciadas,4.0,11.39,2026-10-14,2026-10-14,,1.3837011884550086
+GAC,[OUT]_[N]_Card_Oferta - TM -BC | AB,2026-10-14,active,campaign,SuperAuto GAC,952398236874786,321.4,19673,11733,290,1.10827586,Leads (formulário),9.0,35.71111111,2026-10-14,2026-10-14,,1.6767237705616638
+GAC,[OUT]_[N]_Card_Oferta - TM - FLN,2026-10-13,active,campaign,SuperAuto GAC,952398236874786,369.04,22433,14324,393,0.93903308,Leads (formulário),17.0,21.70823529,2026-10-13,2026-10-13,,1.5661128176487016
+GAC,[OUT]_[N]_Card_Oferta - TM -BC | AB,2026-10-13,active,campaign,SuperAuto GAC,952398236874786,358.5,23377,13110,369,0.97154472,Leads (formulário),8.0,44.8125,2026-10-13,2026-10-13,,1.7831426392067125
+GAC,[SET]_[PV]_Vídeo_Loja [FLN],2026-10-13,active,campaign,SuperAuto GAC,952398236874786,54.83,843,593,9,6.09222222,Conversas por mensagem iniciadas,2.0,27.415,2026-10-13,2026-10-13,,1.4215851602023608
+GAC,[OUT]_[N]_Vídeos_Oferta - Move Brasil,2026-10-13,active,campaign,SuperAuto GAC,952398236874786,51.85,2332,1865,31,1.67258065,Leads (formulário),7.0,7.40714286,2026-10-13,2026-10-13,,1.2504021447721179
+GAC,[OUT]_[N]_Vídeos_Oferta - FLN/BC,2026-10-13,active,campaign,SuperAuto GAC,952398236874786,98.74,2426,1994,41,2.40829268,Leads (formulário),4.0,24.685,2026-10-13,2026-10-13,,1.2166499498495487
+GAC,[OUT]_[N]_Card_Oferta [SUPER SEMANA],2026-10-13,active,campaign,SuperAuto GAC,952398236874786,32.66,1182,959,14,2.33285714,Leads (formulário),2.0,16.33,2026-10-13,2026-10-13,,1.232533889468196
+GAC,[OUT]_[N]_Vídeos_Oferta - Move Brasil,2026-10-12,active,campaign,SuperAuto GAC,952398236874786,58.69,2371,1923,59,0.99474576,Leads (formulário),11.0,5.33545455,2026-10-12,2026-10-12,,1.2329693187727508
+GAC,[OUT]_[N]_Vídeos_Oferta - FLN/BC,2026-10-12,active,campaign,SuperAuto GAC,952398236874786,136.24,3885,3218,72,1.89222222,Leads (formulário),6.0,22.70666667,2026-10-12,2026-10-12,,1.2072715972653822
+GAC,[OUT]_[N]_Card_Oferta - TM - FLN,2026-10-12,active,campaign,SuperAuto GAC,952398236874786,516.17,32952,20457,519,0.99454721,Leads (formulário),18.0,28.67611111,2026-10-12,2026-10-12,,1.6107933714620912
+GAC,[SET]_[PV]_Vídeo_Loja [FLN],2026-10-12,active,campaign,SuperAuto GAC,952398236874786,61.16,714,540,21,2.91238095,Conversas por mensagem iniciadas,4.0,15.29,2026-10-12,2026-10-12,,1.3222222222222222
+GAC,[OUT]_[N]_Card_Oferta - TM -BC | AB,2026-10-12,active,campaign,SuperAuto GAC,952398236874786,478.23,31284,17816,448,1.06747768,Leads (formulário),15.0,31.882,2026-10-12,2026-10-12,,1.7559497081275257
+GAC,[OUT]_[N]_Vídeos_Oferta - Move Brasil,2026-10-11,active,campaign,SuperAuto GAC,952398236874786,77.78,2922,2187,46,1.69086957,Leads (formulário),7.0,11.11142857,2026-10-11,2026-10-11,,1.336076817558299
+GAC,[OUT]_[N]_Vídeos_Oferta - FLN/BC,2026-10-11,active,campaign,SuperAuto GAC,952398236874786,166.9,4885,4116,77,2.16753247,Leads (formulário),9.0,18.54444444,2026-10-11,2026-10-11,,1.186831875607386
+GAC,[OUT]_[N]_Card_Oferta - TM - FLN,2026-10-11,active,campaign,SuperAuto GAC,952398236874786,547.02,34746,20272,570,0.95968421,Leads (formulário),24.0,22.7925,2026-10-11,2026-10-11,,1.7139897395422257
+GAC,[SET]_[PV]_Vídeo_Loja [FLN],2026-10-11,active,campaign,SuperAuto GAC,952398236874786,68.06,1140,847,26,2.61769231,Conversas por mensagem iniciadas,5.0,13.612,2026-10-11,2026-10-11,,1.345926800472255
+GAC,[OUT]_[N]_Card_Oferta - TM -BC | AB,2026-10-11,active,campaign,SuperAuto GAC,952398236874786,500.86,29145,16716,471,1.06339703,Leads (formulário),7.0,71.55142857,2026-10-11,2026-10-11,,1.7435391241923905
+GAC,[OUT]_[N]_Vídeos_Oferta - Move Brasil,2026-10-10,active,campaign,SuperAuto GAC,952398236874786,38.31,1194,990,24,1.59625,Leads (formulário),2.0,19.155,2026-10-10,2026-10-10,,1.206060606060606
+GAC,[OUT]_[N]_Vídeos_Oferta - FLN/BC,2026-10-10,active,campaign,SuperAuto GAC,952398236874786,98.11,2194,1763,37,2.65162162,Leads (formulário),3.0,32.70333333,2026-10-10,2026-10-10,,1.2444696539988656
+GAC,[OUT]_[N]_Card_Oferta - TM - FLN,2026-10-10,active,campaign,SuperAuto GAC,952398236874786,360.38,21040,13266,337,1.06937685,Leads (formulário),18.0,20.02111111,2026-10-10,2026-10-10,,1.5860093472033772
+GAC,[SET]_[PV]_Vídeo_Loja [FLN],2026-10-10,active,campaign,SuperAuto GAC,952398236874786,36.15,687,503,10,3.615,Conversas por mensagem iniciadas,4.0,9.0375,2026-10-10,2026-10-10,,1.3658051689860835
+GAC,[OUT]_[N]_Card_Oferta - TM -BC | AB,2026-10-10,active,campaign,SuperAuto GAC,952398236874786,398.26,20141,12127,345,1.15437681,Leads (formulário),8.0,49.7825,2026-10-10,2026-10-10,,1.6608394491630247
+GAC,[OUT]_[N]_Vídeos_Oferta - Move Brasil,2026-10-09,active,campaign,SuperAuto GAC,952398236874786,39.42,813,676,19,2.07473684,Leads (formulário),7.0,5.63142857,2026-10-09,2026-10-09,,1.202662721893491
+GAC,[OUT]_[N]_Vídeos_Oferta - FLN/BC,2026-10-09,active,campaign,SuperAuto GAC,952398236874786,94.82,1690,1314,30,3.16066667,Leads (formulário),3.0,31.60666667,2026-10-09,2026-10-09,,1.2861491628614916
+GAC,[OUT]_[N]_Card_Oferta - TM - FLN,2026-10-09,active,campaign,SuperAuto GAC,952398236874786,375.96,19564,12900,327,1.14972477,Leads (formulário),9.0,41.77333333,2026-10-09,2026-10-09,,1.5165891472868218
+GAC,[SET]_[PV]_Vídeo_Loja [FLN],2026-10-09,active,campaign,SuperAuto GAC,952398236874786,64.51,1133,841,25,2.5804,Conversas por mensagem iniciadas,5.0,12.902,2026-10-09,2026-10-09,,1.3472057074910821
+GAC,[OUT]_[N]_Card_Oferta - TM -BC | AB,2026-10-09,active,campaign,SuperAuto GAC,952398236874786,419.66,19786,12253,313,1.34076677,Leads (formulário),10.0,41.966,2026-10-09,2026-10-09,,1.6147882151309882
+GAC,[OUT]_[N]_Card_Oferta - TM - FLN,2026-10-08,active,campaign,SuperAuto GAC,952398236874786,179.53,9982,7796,178,1.00859551,Leads (formulário),11.0,16.32090909,2026-10-08,2026-10-08,,1.280400205233453
+GAC,[OUT]_[N]_Card_Oferta [FLN],2026-10-08,inactive,campaign,SuperAuto GAC,952398236874786,78.16,3619,2910,69,1.13275362,Leads (formulário),6.0,13.02666667,2026-10-08,2026-10-08,,1.2436426116838488
+GAC,[OUT]_[N]_Card_Oferta [BC] encerrada,2026-10-08,inactive,campaign,SuperAuto GAC,952398236874786,93.14,3815,3021,61,1.52688525,Leads (formulário),1.0,93.14,2026-10-08,2026-10-08,,1.2628268785170473
+GAC,[SET]_[PV]_Vídeo_Loja [FLN],2026-10-08,active,campaign,SuperAuto GAC,952398236874786,125.42,2439,1721,44,2.85045455,Conversas por mensagem iniciadas,11.0,11.40181818,2026-10-08,2026-10-08,,1.4171993027309704
+GAC,[OUT]_[N]_Card_Oferta - TM -BC | AB,2026-10-08,active,campaign,SuperAuto GAC,952398236874786,302.16,12842,9320,142,2.12788732,Leads (formulário),7.0,43.16571429,2026-10-08,2026-10-08,,1.3778969957081546
+GAC,[OUT]_[N]_Card_Oferta [BC] encerrada,2026-10-07,inactive,campaign,SuperAuto GAC,952398236874786,303.16,13648,9512,180,1.68422222,Leads (formulário),5.0,60.632,2026-10-07,2026-10-07,,1.4348191757779647
+GAC,[SET]_[PV]_Vídeo_Loja [FLN],2026-10-07,active,campaign,SuperAuto GAC,952398236874786,122.84,2067,1480,29,4.23586207,Conversas por mensagem iniciadas,9.0,13.64888889,2026-10-07,2026-10-07,,1.3966216216216216
+GAC,[OUT]_[N]_Card_Oferta [FLN],2026-10-07,inactive,campaign,SuperAuto GAC,952398236874786,238.75,10667,7571,164,1.45579268,Leads (formulário),7.0,34.10714286,2026-10-07,2026-10-07,,1.4089288072909787
+GAC,[OUT]_[N]_Card_Oferta [FLN],2026-10-06,inactive,campaign,SuperAuto GAC,952398236874786,133.52,5825,4422,47,2.84085106,Leads (formulário),1.0,133.52,2026-10-06,2026-10-06,,1.317277250113071
+GAC,[OUT]_[N]_Card_Oferta [BC] encerrada,2026-10-06,inactive,campaign,SuperAuto GAC,952398236874786,90.11,4147,2875,40,2.25275,Leads (formulário),3.0,30.03666667,2026-10-06,2026-10-06,,1.4424347826086956
+GAC,[SET]_[PV]_Vídeo_Loja [FLN],2026-10-06,active,campaign,SuperAuto GAC,952398236874786,150.79,2147,1516,50,3.0158,Conversas por mensagem iniciadas,7.0,21.54142857,2026-10-06,2026-10-06,,1.41622691292876
+GAC,[OUT]_[N]_Card_Oferta - TM -BC | AB,2026-10-06,active,campaign,SuperAuto GAC,952398236874786,393.84,30236,22619,383,1.02830287,Leads (formulário),18.0,21.88,2026-10-06,2026-10-06,,1.3367522878995535
+GAC,[SET]_[PV]_Vídeo_Loja [FLN],2026-10-05,active,campaign,SuperAuto GAC,952398236874786,64.25,981,847,35,1.83571429,Conversas por mensagem iniciadas,3.0,21.41666667,2026-10-05,2026-10-05,,1.1582054309327037
+GAC,[OUT]_[N]_Card_Oferta - TM -BC | AB,2026-10-05,active,campaign,SuperAuto GAC,952398236874786,253.98,21376,16794,252,1.00785714,Leads (formulário),14.0,18.14142857,2026-10-05,2026-10-05,,1.2728355365011315
+GAC,[SET]_[PV]_Vídeo_Loja [FLN],2026-10-04,active,campaign,SuperAuto GAC,952398236874786,28.36,911,797,7,4.05142857,Conversas por mensagem iniciadas,2.0,14.18,2026-10-04,2026-10-04,,1.1430363864491844
+GAC,[OUT]_[N]_Card_Oferta - TM -BC | AB,2026-10-04,active,campaign,SuperAuto GAC,952398236874786,195.99,14581,12063,228,0.85960526,Leads (formulário),17.0,11.52882353,2026-10-04,2026-10-04,,1.2087374616596203
+GAC,[SET]_[PV]_Vídeo_Loja [FLN],2026-10-03,active,campaign,SuperAuto GAC,952398236874786,69.18,2108,1626,24,2.8825,Conversas por mensagem iniciadas,6.0,11.53,2026-10-03,2026-10-03,,1.2964329643296433
+GAC,[OUT]_[N]_Card_Oferta - TM -BC | AB,2026-10-03,active,campaign,SuperAuto GAC,952398236874786,397.74,24251,18136,364,1.09269231,Leads (formulário),25.0,15.9096,2026-10-03,2026-10-03,,1.3371746801940891
+GAC,[OUT]_[N]_Card_Oferta - TM -BC | AB,2026-10-02,active,campaign,SuperAuto GAC,952398236874786,657.93,35486,26449,561,1.17278075,Leads (formulário),23.0,28.60565217,2026-10-02,2026-10-02,,1.3416764338916405
+GAC,[SET]_[PV]_Vídeo_Loja [FLN],2026-10-02,active,campaign,SuperAuto GAC,952398236874786,90.76,2780,2146,26,3.49076923,Conversas por mensagem iniciadas,4.0,22.69,2026-10-02,2026-10-02,,1.2954333643988816
+GAC,[SET]_[PV]_Vídeo_Loja [FLN],2026-10-01,active,campaign,SuperAuto GAC,952398236874786,98.59,1835,1328,29,3.39965517,Conversas por mensagem iniciadas,7.0,14.08428571,2026-10-01,2026-10-01,,1.381777108433735
+GAC,[OUT]_[N]_Card_Oferta - TM -BC | AB,2026-10-01,active,campaign,SuperAuto GAC,952398236874786,405.78,15660,11882,264,1.53704545,Leads (formulário),16.0,25.36125,2026-10-01,2026-10-01,,1.3179599394041408
+MIT,[OUT]_[N]_Card_Oferta [Ação FDS],2026-10-15,active,campaign,SuperAuto [Mitsubishi],1876369346602489,24.87,592,446,8,3.10875,,,,2026-10-15,2026-10-15,,1.3273542600896862
+MIT,[OUT]_[SN]_Feed_Oferta,2026-10-15,active,campaign,SuperAuto [Mitsubishi],1876369346602489,28.51,1016,888,18,1.58388889,Conversas por mensagem iniciadas,1.0,28.51,2026-10-15,2026-10-15,,1.1441441441441442
+MIT,[OUT]_[N]_Card_Oferta [MT],2026-10-15,active,campaign,SuperAuto [Mitsubishi],1876369346602489,94.48,4300,3600,54,1.74962963,Leads (formulário),4.0,23.62,2026-10-15,2026-10-15,,1.1944444444444444
+MIT,[SET]_[PV]_Card_Loja_Peças Site 2,2026-10-15,active,campaign,SuperAuto [Mitsubishi],1876369346602489,27.3,6116,3035,147,0.18571429,Cliques no link,147.0,0.18571429,2026-10-15,2026-10-15,,2.015156507413509
+MIT,[OUT]_[N]_Card_Oferta [Ação FDS],2026-10-14,active,campaign,SuperAuto [Mitsubishi],1876369346602489,104.32,3142,1975,23,4.53565217,Leads (formulário),5.0,20.864,2026-10-14,2026-10-14,,1.590886075949367
+MIT,[OUT]_[SN]_Feed_Oferta,2026-10-14,active,campaign,SuperAuto [Mitsubishi],1876369346602489,70.77,3453,2756,50,1.4154,Conversas por mensagem iniciadas,4.0,17.6925,2026-10-14,2026-10-14,,1.2529027576197387
+MIT,[OUT]_[N]_Card_Oferta [MT],2026-10-14,active,campaign,SuperAuto [Mitsubishi],1876369346602489,302.09,15493,11306,195,1.54917949,Leads (formulário),11.0,27.46272727,2026-10-14,2026-10-14,,1.3703343357509288
+MIT,[SET]_[PV]_Card_Loja_Peças Site 2,2026-10-14,active,campaign,SuperAuto [Mitsubishi],1876369346602489,77.41,21422,6912,467,0.16576017,Cliques no link,467.0,0.16576017,2026-10-14,2026-10-14,,3.099247685185185
+MIT,[OUT]_[N]_Card_Oferta [MT],2026-10-13,active,campaign,SuperAuto [Mitsubishi],1876369346602489,282.92,13788,9452,166,1.70433735,Leads (formulário),10.0,28.292,2026-10-13,2026-10-13,,1.4587388912399493
+MIT,[SET]_[PV]_Card_Loja_Peças Site 2,2026-10-13,active,campaign,SuperAuto [Mitsubishi],1876369346602489,96.25,16507,4825,681,0.14133627,Cliques no link,681.0,0.14133627,2026-10-13,2026-10-13,,3.421139896373057
+MIT,[OUT]_[SN]_Feed_Oferta,2026-10-13,active,campaign,SuperAuto [Mitsubishi],1876369346602489,66.41,3794,3182,59,1.12559322,Conversas por mensagem iniciadas,3.0,22.13666667,2026-10-13,2026-10-13,,1.1923318667504714
+MIT,[OUT]_[N]_Card_Oferta [Ação FDS],2026-10-13,active,campaign,SuperAuto [Mitsubishi],1876369346602489,47.2,1321,915,19,2.48421053,Leads (formulário),1.0,47.2,2026-10-13,2026-10-13,,1.4437158469945355
+MIT,[OUT]_[SN]_Feed_Oferta,2026-10-12,active,campaign,SuperAuto [Mitsubishi],1876369346602489,65.03,4413,3737,60,1.08383333,Conversas por mensagem iniciadas,4.0,16.2575,2026-10-12,2026-10-12,,1.180893765052181
+MIT,[OUT]_[N]_Card_Oferta [MT],2026-10-12,active,campaign,SuperAuto [Mitsubishi],1876369346602489,342.06,18832,13621,189,1.80984127,Leads (formulário),9.0,38.00666667,2026-10-12,2026-10-12,,1.3825710300271639
+MIT,[SET]_[PV]_Card_Loja_Peças Site 2,2026-10-12,active,campaign,SuperAuto [Mitsubishi],1876369346602489,102.08,19269,6914,672,0.15190476,Cliques no link,672.0,0.15190476,2026-10-12,2026-10-12,,2.7869540063638993
+MIT,[OUT]_[SN]_Feed_Oferta,2026-10-11,active,campaign,SuperAuto [Mitsubishi],1876369346602489,72.78,6222,5311,85,0.85623529,Conversas por mensagem iniciadas,3.0,24.26,2026-10-11,2026-10-11,,1.1715307851628696
+MIT,[OUT]_[N]_Card_Oferta [MT],2026-10-11,active,campaign,SuperAuto [Mitsubishi],1876369346602489,333.74,16920,11649,187,1.78470588,Leads (formulário),11.0,30.34,2026-10-11,2026-10-11,,1.4524851918619623
+MIT,[SET]_[PV]_Card_Loja_Peças Site 2,2026-10-11,active,campaign,SuperAuto [Mitsubishi],1876369346602489,122.36,26939,11288,719,0.17018081,Cliques no link,719.0,0.17018081,2026-10-11,2026-10-11,,2.386516654854713
+MIT,[OUT]_[SN]_Feed_Oferta,2026-10-10,active,campaign,SuperAuto [Mitsubishi],1876369346602489,45.02,3530,3090,36,1.25055556,Conversas por mensagem iniciadas,4.0,11.255,2026-10-10,2026-10-10,,1.1423948220064726
+MIT,[OUT]_[N]_Card_Oferta [MT],2026-10-10,active,campaign,SuperAuto [Mitsubishi],1876369346602489,406.81,14884,10258,176,2.31142045,Leads (formulário),10.0,40.681,2026-10-10,2026-10-10,,1.4509651004094366
+MIT,[SET]_[PV]_Card_Loja_Peças Site 2,2026-10-10,active,campaign,SuperAuto [Mitsubishi],1876369346602489,108.21,20201,9652,536,0.20188433,Cliques no link,536.0,0.20188433,2026-10-10,2026-10-10,,2.0929341069208456
+MIT,[SET]_[PV]_Card_Loja_Peças Site 2,2026-10-09,active,campaign,SuperAuto [Mitsubishi],1876369346602489,122.84,24967,10518,577,0.21289428,Cliques no link,577.0,0.21289428,2026-10-09,2026-10-09,,2.373740254801293
+MIT,[OUT]_[SN]_Feed_Oferta,2026-10-09,active,campaign,SuperAuto [Mitsubishi],1876369346602489,70.06,3678,2968,62,1.13,Conversas por mensagem iniciadas,1.0,70.06,2026-10-09,2026-10-09,,1.2392183288409704
+MIT,[OUT]_[N]_Card_Oferta [MT],2026-10-09,active,campaign,SuperAuto [Mitsubishi],1876369346602489,207.58,8973,7112,127,1.63448819,Leads (formulário),8.0,25.9475,2026-10-09,2026-10-09,,1.2616704161979753
+MIT,[OUT]_[SN]_Feed_Oferta,2026-10-08,active,campaign,SuperAuto [Mitsubishi],1876369346602489,53.0,5744,4917,50,1.06,Conversas por mensagem iniciadas,2.0,26.5,2026-10-08,2026-10-08,,1.1681919869839332
+MIT,[SET]_[PV]_Card_Loja_Peças Site 2,2026-10-08,active,campaign,SuperAuto [Mitsubishi],1876369346602489,118.29,31740,11531,588,0.20117347,Cliques no link,588.0,0.20117347,2026-10-08,2026-10-08,,2.752580001734455
+MIT,[OUT]_[N]_Card_Oferta [MT],2026-10-08,active,campaign,SuperAuto [Mitsubishi],1876369346602489,364.83,23286,15428,320,1.14009375,Leads (formulário),36.0,10.13416667,2026-10-08,2026-10-08,,1.509333679025149
+MIT,[OUT]_[SN]_Feed_Oferta,2026-10-07,active,campaign,SuperAuto [Mitsubishi],1876369346602489,45.02,6449,5601,38,1.18473684,,,,2026-10-07,2026-10-07,,1.1514015354401
+MIT,[OUT]_[N]_Card_Oferta [MT],2026-10-07,active,campaign,SuperAuto [Mitsubishi],1876369346602489,250.9,15350,11020,222,1.13018018,Leads (formulário),20.0,12.545,2026-10-07,2026-10-07,,1.3929219600725953
+MIT,[SET]_[PV]_Card_Loja_Peças Site 2,2026-10-07,active,campaign,SuperAuto [Mitsubishi],1876369346602489,65.5,19817,5938,373,0.17560322,Cliques no link,373.0,0.17560322,2026-10-07,2026-10-07,,3.3373189626136748
+MIT,[OUT]_[SN]_Feed_Oferta,2026-10-06,active,campaign,SuperAuto [Mitsubishi],1876369346602489,56.85,5443,4460,53,1.07264151,,,,2026-10-06,2026-10-06,,1.2204035874439463
+MIT,[OUT]_[N]_Card_Oferta [MT],2026-10-06,active,campaign,SuperAuto [Mitsubishi],1876369346602489,216.37,14727,10021,228,0.94899123,Leads (formulário),17.0,12.72764706,2026-10-06,2026-10-06,,1.4696138109969066
+MIT,[SET]_[PV]_Card_Loja_Peças Site 2,2026-10-06,active,campaign,SuperAuto [Mitsubishi],1876369346602489,51.5,11871,4128,335,0.15373134,Cliques no link,335.0,0.15373134,2026-10-06,2026-10-06,,2.8757267441860463
+MIT,[SET]_[SN]_Feed_Oferta,2026-10-05,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,50.83,13892,10625,49,1.03734694,,,,2026-10-05,2026-10-05,,1.3074823529411765
+MIT,[SET]_[PV]_Card_Loja_Peças Site 2,2026-10-05,active,campaign,SuperAuto [Mitsubishi],1876369346602489,99.8,25645,7430,691,0.14442836,Cliques no link,691.0,0.14442836,2026-10-05,2026-10-05,,3.4515477792732168
+MIT,[OUT]_[N]_Card_Oferta [MT],2026-10-05,active,campaign,SuperAuto [Mitsubishi],1876369346602489,281.79,22598,15455,319,0.88335423,Leads (formulário),20.0,14.0895,2026-10-05,2026-10-05,,1.4621805241022323
+MIT,[OUT]_[SN]_Feed_Oferta,2026-10-05,active,campaign,SuperAuto [Mitsubishi],1876369346602489,18.18,1722,1491,14,1.29857143,,,,2026-10-05,2026-10-05,,1.1549295774647887
+MIT,[OUT]_[N]_Card_Oferta [MT],2026-10-04,active,campaign,SuperAuto [Mitsubishi],1876369346602489,371.72,29016,18647,436,0.85256881,Leads (formulário),29.0,12.81793103,2026-10-04,2026-10-04,,1.5560680002145117
+MIT,[SET]_[PV]_Card_Loja_Peças Site 2,2026-10-04,active,campaign,SuperAuto [Mitsubishi],1876369346602489,133.8,32113,10043,954,0.14025157,Cliques no link,954.0,0.14025157,2026-10-04,2026-10-04,,3.1975505327093496
+MIT,[SET]_[SN]_Feed_Oferta,2026-10-04,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,72.93,12244,9914,85,0.858,Conversas por mensagem iniciadas,2.0,36.465,2026-10-04,2026-10-04,,1.235021182166633
+MIT,[OUT]_[N]_Card_Oferta [MT],2026-10-03,active,campaign,SuperAuto [Mitsubishi],1876369346602489,250.62,14812,10444,233,1.07562232,Leads (formulário),17.0,14.74235294,2026-10-03,2026-10-03,,1.418230563002681
+MIT,[SET]_[PV]_Card_Loja_Peças Site 2,2026-10-03,active,campaign,SuperAuto [Mitsubishi],1876369346602489,80.25,20860,6936,556,0.14433453,Cliques no link,556.0,0.14433453,2026-10-03,2026-10-03,,3.0074971164936564
+MIT,[SET]_[SN]_Feed_Oferta,2026-10-03,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,35.64,2642,2196,26,1.37076923,Conversas por mensagem iniciadas,1.0,35.64,2026-10-03,2026-10-03,,1.203096539162113
+MIT,[SET]_[SN]_Feed_Oferta,2026-10-02,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,64.87,3583,2887,53,1.22396226,Conversas por mensagem iniciadas,6.0,10.81166667,2026-10-02,2026-10-02,,1.2410807066158642
+MIT,[OUT]_[N]_Card_Oferta [MT],2026-10-02,active,campaign,SuperAuto [Mitsubishi],1876369346602489,126.52,5840,4566,91,1.39032967,Leads (formulário),5.0,25.304,2026-10-02,2026-10-02,,1.2790188348664038
+MIT,[SET]_[PV]_Card_Loja_Peças Site 2,2026-10-02,active,campaign,SuperAuto [Mitsubishi],1876369346602489,96.23,25771,8125,601,0.16011647,Cliques no link,601.0,0.16011647,2026-10-02,2026-10-02,,3.1718153846153845
+MIT,[SET]_[N]_Card_Oferta - T/E/A 2,2026-10-01,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,88.09,2083,1779,29,3.03758621,Leads (formulário),2.0,44.045,2026-10-01,2026-10-01,,1.1708825182686902
+MIT,[SET]_[PV]_Card_Loja_Peças Site 2,2026-10-01,active,campaign,SuperAuto [Mitsubishi],1876369346602489,99.04,26250,8232,555,0.17845045,Cliques no link,555.0,0.17845045,2026-10-01,2026-10-01,,3.188775510204082
+MIT,[SET]_[SN]_Feed_Oferta,2026-10-01,inactive,campaign,SuperAuto [Mitsubishi],1876369346602489,47.56,2654,2363,34,1.39882353,Conversas por mensagem iniciadas,3.0,15.85333333,2026-10-01,2026-10-01,,1.1231485399915362
+SUZUKI,[AGO]_[N]_Card_Oferta,2026-10-01,active,campaign,Sagara [Suzuki],498872405861498,217.7,8375,6476,460,0.47326087,Leads (formulário),13.0,16.74615385,2026-10-01,2026-10-01,,1.2932365657813465
+SUZUKI,[AGO]_[N]_Card_Oferta,2026-10-02,active,campaign,Sagara [Suzuki],498872405861498,101.51,4257,3775,479,0.21192067,Leads (formulário),3.0,33.83666667,2026-10-02,2026-10-02,,1.127682119205298
+SUZUKI,[AGO]_[N]_Card_Oferta,2026-10-03,active,campaign,Sagara [Suzuki],498872405861498,110.44,10144,8390,288,0.38347222,Leads (formulário),23.0,4.80173913,2026-10-03,2026-10-03,,1.2090584028605482
+SUZUKI,[AGO]_[N]_Card_Oferta,2026-10-04,active,campaign,Sagara [Suzuki],498872405861498,155.55,16467,13029,423,0.3677305,Leads (formulário),20.0,7.7775,2026-10-04,2026-10-04,,1.2638728989177987
+SUZUKI,[AGO]_[N]_Card_Oferta,2026-10-05,active,campaign,Sagara [Suzuki],498872405861498,128.24,12226,9660,355,0.36123944,Leads (formulário),21.0,6.10666667,2026-10-05,2026-10-05,,1.265631469979296
+SUZUKI,[AGO]_[N]_Card_Oferta,2026-10-06,active,campaign,Sagara [Suzuki],498872405861498,136.29,11098,9194,308,0.4425,Leads (formulário),15.0,9.086,2026-10-06,2026-10-06,,1.2070915814661736
+SUZUKI,[AGO]_[N]_Card_Oferta,2026-10-07,active,campaign,Sagara [Suzuki],498872405861498,158.78,9447,7773,275,0.57738182,Leads (formulário),22.0,7.21727273,2026-10-07,2026-10-07,,1.2153608645310692
+SUZUKI,[AGO]_[N]_Card_Oferta,2026-10-08,active,campaign,Sagara [Suzuki],498872405861498,153.34,8687,7266,282,0.54375887,Leads (formulário),17.0,9.02,2026-10-08,2026-10-08,,1.1955684007707128
+SUZUKI,[AGO]_[N]_Card_Oferta,2026-10-09,active,campaign,Sagara [Suzuki],498872405861498,149.94,8957,7485,215,0.69739535,Leads (formulário),14.0,10.71,2026-10-09,2026-10-09,,1.1966599866399465
+SUZUKI,[AGO]_[N]_Card_Oferta,2026-10-10,active,campaign,Sagara [Suzuki],498872405861498,157.21,8336,7287,253,0.6213834,Leads (formulário),31.0,5.07129032,2026-10-10,2026-10-10,,1.1439549883353919
+SUZUKI,[AGO]_[N]_Card_Oferta,2026-10-11,active,campaign,Sagara [Suzuki],498872405861498,172.9,11745,10352,256,0.67539063,Leads (formulário),28.0,6.175,2026-10-11,2026-10-11,,1.134563369397218
+SUZUKI,[AGO]_[N]_Card_Oferta,2026-10-12,active,campaign,Sagara [Suzuki],498872405861498,169.87,11234,9628,275,0.61770909,Leads (formulário),18.0,9.43722222,2026-10-12,2026-10-12,,1.166805151641047
+SUZUKI,[AGO]_[N]_Card_Oferta,2026-10-13,active,campaign,Sagara [Suzuki],498872405861498,130.52,8566,7109,241,0.54157676,Leads (formulário),21.0,6.2152381,2026-10-13,2026-10-13,,1.2049514699676467
+SUZUKI,[AGO]_[N]_Card_Oferta,2026-10-14,active,campaign,Sagara [Suzuki],498872405861498,158.13,8613,7450,232,0.68159483,Leads (formulário),29.0,5.45275862,2026-10-14,2026-10-14,,1.1561073825503356
+SUZUKI,[AGO]_[N]_Card_Oferta,2026-10-15,active,campaign,Sagara [Suzuki],498872405861498,38.16,1815,1617,58,0.65793103,Leads (formulário),9.0,4.24,2026-10-15,2026-10-15,,1.1224489795918366
